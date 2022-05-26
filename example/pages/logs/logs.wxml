@@ -1,0 +1,6 @@
+<!--logs.wxml-->
+<view>
+  <view class="wrap">
+    log页面
+  </view>
+</view>

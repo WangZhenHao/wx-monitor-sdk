@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <navigator url="/pages/logs/logs">log跳转</navigator>
+  <button bind:tap="binError">点击报错</button>
+  <test></test>
+</view>
