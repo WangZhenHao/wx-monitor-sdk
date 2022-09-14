@@ -241,7 +241,7 @@
         var curPages = getCurrentPages();
 
         if (curPages.length) {
-          return curPages[curPages.length - 1];
+          return curPages[curPages.length - 1] || {};
         }
 
         return {};
